@@ -1,1 +1,1 @@
-# CPP-Projects-based-on-EasyX
+# [C++/EasyX] mini game-The Greedy Snake
